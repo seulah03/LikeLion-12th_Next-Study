@@ -14,7 +14,7 @@
 ### ✏️ Convention
 1. 해당 레포지토리를 fork한다.
 2. 본인 레포지토리 내에 **본인 영문 이름으로 된 폴더**를 생성한다. ex) gracekim, khj0426
-3. 만든 폴더 내에 주차 별로 폴더를 또 나누어 실습을 진행한다.(Merge 시 충돌이 나지 않기 위해) ex) gracekim/week1/프로젝트 폴더
+3. 만든 폴더 내에 프로젝트 폴더를 생성하여 실습을 진행한다.(Merge 시 충돌이 나지 않기 위해) ex) gracekim/프로젝트 폴더
 4. commit 후에 PR을 보낸다.
 
 ### 🗂 Folder Structure
@@ -23,17 +23,11 @@
 본인이름(깃허브) 
   |
   |
-  |── 🗂 week1
-  │   │── 📁 Project1
-  │   │── 📁 Project2
-  │   │...
+  │── 📁 Project1
+  │── 📁 Project2
+  │...
   │
-  |── 🗂 week2
-  │   │── 📁 Project1
-  │   │── 📁 Project2
-  │   │── 📁 Project3
-  │   │...
-  └── ...
+  └── 
       
 ```
 
